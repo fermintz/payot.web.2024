@@ -1,0 +1,123 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+html, body{
+  font-family:'Pretendard';
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color:#494949;
+  word-break: keep-all;
+  width:100%;
+}
+
+
+/*  16px 기준
+70px - 4.38rem
+46px - 3.13rem
+40px - 2.5rem
+36px - 2.25em
+28px - 1.75em
+24px - 1.5em
+22px - 1.38em
+20px - 1.25em
+18px - 1.13em
+16px - 1애월 햄버거
+14px - 0.88em
+12px - 0.75em
+
+*/
+
+.inner{
+  max-width:1440px;
+  width:100%;
+  margin:0 auto;
+}
+
+
+
+@media screen and (max-width:1440px) {
+  .inner{
+    padding:0 20px;
+  }
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+p{
+  margin:0;
+}
+
+strong{font-weight:normal}
+
+img{
+  display:block;
+  image-rendering:-webkit-optimize-contrast;
+  transform:translateZ(0);
+  backface-visibility:hidden;
+}
+
+
+.custom-swiper{
+  position: relative;
+  height:100%;
+
+  .custom-pagination{
+    position: absolute;
+    z-index:20;
+    right:20px;
+    top:20px;
+    display:flex;
+    align-items: center;
+    gap:5px;
+  }
+  .swiper-pagination-bullet{
+    width:8px;
+    height:8px;
+    border-radius:4px;
+    background:rgba(0,0,0,0.3);
+    transition:width 0.5s;
+  }
+  .swiper-pagination-bullet-active{
+    width: 16px;
+    transition:width 0.5s;
+    background:#0077ff
+  }
+}
+
+.slideup{
+
+  transform:translateY(50%);
+  animation: slideup .5s ease-out forwards;
+}
+
+.delay-1{
+  animation-delay: .2s;
+}
+.delay-2{
+  animation-delay: .4s;
+}
+.delay-3{
+  animation-delay: .6s;
+}
+.delay-4{
+  animation-delay: .8s;
+}
+
+
+@keyframes slideup {
+  0%{
+
+    transform:translateY(50%)
+  }
+  100%{
+
+    transform:translateY(0%)
+  }
+}
+
