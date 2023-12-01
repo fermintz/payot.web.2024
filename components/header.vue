@@ -7,7 +7,7 @@
     <div class="max-w-[1440px] w-full mx-auto lg:p-0 pl-5 pr-2">    
       <div class="flex justify-between">
         <div class="flex items-center gap-[70px]">
-          <div class="flex items-center" @click="$router.push('/')">
+          <div class="flex items-center cursor-pointer" @click="$router.push({path: '/'})">
             <img src="~/assets/img/logo.png" class="lg:h-[50px] h-[40px]">
             <div class="flex flex-col lg:ml-4 ml-3">
               <span class="text-lg font-bold leading-[1]">페이오티</span>

@@ -1,8 +1,15 @@
+<script lang="ts" setup>
+definePageMeta({
+  layout:'default'
+})
+
+</script>
+
 <template>
   <div class="relative overflow-hidden">
 
     <MainSlide class="md:block hidden"/>
-    <MainSlideMobile class="md:hidden block"/>
+    <!-- <MainSlideMobile class="md:hidden block"/> -->
 
     <section class="py-[120px] mt-[120px]">
       <div class="max-w-[1440px] mx-auto">
@@ -58,7 +65,7 @@
         </div>
   
         <div class="lg:mt-[70px] mt-8 ">
-          <MainGridSwiper />
+          <!-- <MainGridSwiper /> -->
         </div>      
       </div>
     </section>
@@ -192,12 +199,7 @@
   </div>
 </template>
 
-<script lang="ts" setup>
-definePageMeta({
-  layout:'default'
-})
 
-</script>
 
 <style lang="scss" scoped>
 section{
