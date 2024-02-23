@@ -1,3 +1,12 @@
+<script lang="ts" setup>
+const { scrollEvent } = useScroll()
+
+onMounted(()=>{
+  scrollEvent()
+})
+
+</script>
+
 <template>
   <div>
     <section class="mt-[60px] pb-[60px] relative overflow-hidden ">
@@ -10,7 +19,7 @@ PC 및 모바일 버젼 모두 제공합니다.
           </span>
         </div>
         <div class="realtvie z-20 flex items-center justify-center mt-[70px]">
-          <img src="~/assets/img/admin/admin-01.png" class="rounded-3xl max-w-[980px] drop-shadow-2xl">
+          <img src="~/assets/img/admin/admin-01.png" class="rounded-3xl max-w-[980px] drop-shadow-2xl animation slideup on">
         </div>       
       </div>
       <div class="h-[500px] w-full absolute bottom-0 left-0 z-0">
@@ -30,7 +39,7 @@ PC 및 모바일 버젼 모두 제공합니다.
         <div class="mt-[70px] relative">
           <div class="relative z-10 flex items-center px-20">
             <img src="~/assets/img/admin/calenda-01.png" class="-mb-10 border rounded-t-3xl">
-            <img src="~/assets/img/admin/calenda-02.png" class="absolute right-20 bottom-0 delay-1 border border-b-0 rounded-t-2xl drop-shadow-2xl">
+            <img src="~/assets/img/admin/calenda-02.png" class="absolute right-20 bottom-0 delay-1 border border-b-0 rounded-t-2xl drop-shadow-2xl animation slideup">
           </div>
           <div class="h-[450px] rounded-3xl bg-gray-100 flex justify-end absolute bottom-0 w-full z-0">
             
@@ -49,9 +58,10 @@ PC 및 모바일 버젼 모두 제공합니다.
           <p class="mt-8 text-xl max-w-[600px] leading-[1.6] font-semibold">페이오티 키오스크를 사용중인 타 매장과 나의 매장의 매출을 비교해 볼 수 있습니다. 
 나의 매장의 매출이 전국 평균이 어느정도 인지 확인해보세요</p>
         </div>
-        <div class="mt-[80px] relative">
-          <div class="relative z-10 flex items-center justify-center">
-            <img src="~/assets/img/admin/chart-01.png" class="border rounded-3xl drop-shadow-xl">            
+        <div class="mt-[140px] relative  min-h-[500px] bg-white">
+          <img src="~/assets/img/admin/chart-01.png" class="absolute -top-[50px] left-[100px] z-20 bg-white border rounded-3xl h-[70%] animation slideup">  
+          <div class="relative z-10 flex items-center justify-center rounded-3xl overflow-hidden min-h-[500px]">
+            <img src="~/assets/img/admin/chart-02.png" class="absolute -bottom-[100px] right-[100px]">            
           </div>
         </div>
       </div>
@@ -69,12 +79,12 @@ PC 및 모바일 버젼 모두 제공합니다.
           <div class="bg-gray-100 rounded-3xl relative min-h-[450px]">
             <div class="w-full h-full bg-black opacity-30 absolute left-0 top-0 rounded-3xl z-10"></div>
             <img src="~/assets/img/admin/remote-01.png" class="absolute z-0 bottom-5 left-10">
-            <img src="~/assets/img/admin/remote-02.png" class="absolute bottom-10 right-10 z-20 drop-shadow-2xl">
+            <img src="~/assets/img/admin/remote-02.png" class="absolute bottom-10 right-10 z-20 drop-shadow-2xl animation slideup">
           </div>
         </div>
         <div class="grid grid-cols-2 items-center gap-[100px] mt-[200px] ">
           <div class="bg-[#d7f3ff] rounded-3xl max-h-[450px] flex items-end justify-center p-10 pb-5">
-            <img src="~/assets/img/admin/member-01.png" class="drop-shadow-2xl">
+            <img src="~/assets/img/admin/member-01.png" class="drop-shadow-2xl animation slideup">
           </div>
           <div class="flex flex-col items-start text-left max-w-[450px]">
             <span class="mb-3 text-[#0077ff] text-xl font-semibold">회원, 포인트관리</span>
@@ -90,7 +100,7 @@ PC 및 모바일 버젼 모두 제공합니다.
 포인트 두배 적립, 세탁금액 할인등, 다양한 이벤트 문자를 발송해보세요</p>
           </div>
           <div class="bg-[#e0ebff] rounded-3xl max-h-[450px] flex items-end justify-center p-10 pb-5">
-            <img src="~/assets/img/admin/sms-01.png" class=" drop-shadow-2xl">
+            <img src="~/assets/img/admin/sms-01.png" class=" drop-shadow-2xl animation slideup">
           </div>
         </div>
       </div>
@@ -107,7 +117,7 @@ PC 및 모바일 버젼 모두 제공합니다.
         <div class="mt-[200px] relative">
           <div class="relative z-10 flex items-center justify-center border-b border-b-neutral-500">
             <img src="~/assets/img/admin/event-01.png" class="border border-b-0 brightness-[.7] rounded-t-xl">
-            <img src="~/assets/img/admin/event-02.png" class="absolute bottom-0 left-1/2 -ml-[100px] border bg-white border-b-0 rounded-t-3xl  drop-shadow-2xl">
+            <img src="~/assets/img/admin/event-02.png" class="absolute bottom-0 left-1/2 -ml-[100px] border bg-white border-b-0 rounded-t-3xl  drop-shadow-2xl  animation slideup">
           </div>
         </div>
       </div>
@@ -115,9 +125,6 @@ PC 및 모바일 버젼 모두 제공합니다.
   </div>
 </template>
 
-<script lang="ts" setup>
-
-</script>
 
 <style lang="scss" scoped>
 

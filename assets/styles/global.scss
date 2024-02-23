@@ -8,6 +8,7 @@ html, body{
   color:#494949;
   word-break: keep-all;
   width:100%;
+  scroll-behavior: smooth;
 }
 
 
@@ -21,7 +22,7 @@ html, body{
 22px - 1.38em
 20px - 1.25em
 18px - 1.13em
-16px - 1애월 햄버거
+16px - 1
 14px - 0.88em
 12px - 0.75em
 
@@ -59,62 +60,44 @@ img{
   backface-visibility:hidden;
 }
 
+.animation{
+  opacity: 0;
+}
+.animation.on.slideup{
+  opacity: 0;
+  transform: translateY(100px);
+  animation: slideup .6s forwards;
 
-.custom-swiper{
-  position: relative;
-  height:100%;
-
-  .custom-pagination{
-    position: absolute;
-    z-index:20;
-    right:20px;
-    top:20px;
-    display:flex;
-    align-items: center;
-    gap:5px;
-  }
-  .swiper-pagination-bullet{
-    width:8px;
-    height:8px;
-    border-radius:4px;
-    background:rgba(0,0,0,0.3);
-    transition:width 0.5s;
-  }
-  .swiper-pagination-bullet-active{
-    width: 16px;
-    transition:width 0.5s;
-    background:#0077ff
+  @keyframes slideup {
+    0%{
+      opacity: 0;
+      transform:translateY(100px)
+    }
+    100%{
+      opacity: 1;
+      transform:translateY(0px)
+    }
   }
 }
 
-.slideup{
 
-  transform:translateY(50%);
-  animation: slideup .5s ease-out forwards;
+.animation.on.delay-1{
+  animation-delay: 0.2s;
+}
+.animation.on.delay-2{
+  animation-delay: 0.4s;
+}
+.animation.on.delay-3{
+  animation-delay: 0.6s;
+}
+.animation.on.delay-4{
+  animation-delay: 0.8s;
+}
+.animation.on.delay-5{
+  animation-delay: 1s;
+}
+.animation.on.delay-6{
+  animation-delay: 1.2s;
 }
 
-.delay-1{
-  animation-delay: .2s;
-}
-.delay-2{
-  animation-delay: .4s;
-}
-.delay-3{
-  animation-delay: .6s;
-}
-.delay-4{
-  animation-delay: .8s;
-}
-
-
-@keyframes slideup {
-  0%{
-
-    transform:translateY(50%)
-  }
-  100%{
-
-    transform:translateY(0%)
-  }
-}
 

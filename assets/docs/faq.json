@@ -4,7 +4,7 @@
     "description":"1번 질문의 답변입니다.",
     "active":false
   },
-  {
+  { 
     "title":"키오스크와 출입 시스템을 설치할 수 있나요?",
     "description":"2번 질문의 답변입니다.",
     "active":false
