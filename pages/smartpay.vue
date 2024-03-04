@@ -22,8 +22,8 @@ onMounted(()=>{
           </div>
 
           <div class="relative mt-[70px] w-full ">
-            <img src="~/assets/img/smartpay/smart01.png" class="absolute lg:max-h-[600px] max-h-[400px] -right-10 bottom-0 z-20 animation slideup on">
-            <img src="~/assets/img/smartpay/smart02.png" class="absolute max-h-[360px] lg:left-1/2 left-0  bottom-[60px] drop-shadow-2xl border border-black rounded-xl z-10 animation slideup on">
+            <img src="~/assets/img/smartpay/smart01.png" class="absolute lg:max-h-[600px] max-h-[400px] -right-10 bottom-0 z-20 animation slideup first">
+            <img src="~/assets/img/smartpay/smart02.png" class="absolute max-h-[360px] lg:left-1/2 left-0  bottom-[60px] drop-shadow-2xl border border-black rounded-xl z-10 animation slideup first">
             <img src="~/assets/img/common-bg.jpg" class="h-[400px] w-full rounded-3xl object-cover  object-center">
           </div>
         </div>
@@ -96,19 +96,6 @@ onMounted(()=>{
 
     <div class="h-[100px] bg-white"></div>
 
-    <section class="py-[100px]">
-      <div class="inner">
-        <div class="flex flex-col items-center text-center">
-          <h2 class="text-4xl font-bold leading-[1.3]">물론, 페이오티 키오스크가 없더라도<br/>단독으로 운용이 가능합니다</h2>
-          <p class="mt-8 text-xl max-w-[700px] leading-[1.6] font-semibold text-neutral-500">페이오티 키오스크 이용중이시라면, 간단한 몇가지 설정 변경 및 QR코드 부착으로 
-스마트페이를 매장에서 사용하실 수 있습니다.</p>
-        </div>
-
-        <div class="h-[500px] bg-neutral-100 rounded-3xl mt-[70px]">
-
-        </div>
-      </div>
-    </section>
 
     <section class="py-[100px]">
       <div class="inner flex flex-col gap-[100px]">

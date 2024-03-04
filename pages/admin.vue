@@ -19,7 +19,7 @@ PC 및 모바일 버젼 모두 제공합니다.
           </span>
         </div>
         <div class="realtvie z-20 flex items-center justify-center mt-[70px]">
-          <img src="~/assets/img/admin/admin-01.png" class="rounded-3xl max-w-[980px] drop-shadow-2xl animation slideup on">
+          <img src="~/assets/img/admin/admin-01.png" class="rounded-3xl max-w-[980px] drop-shadow-2xl animation slideup first">
         </div>       
       </div>
       <div class="h-[500px] w-full absolute bottom-0 left-0 z-0">

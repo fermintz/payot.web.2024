@@ -1,5 +1,6 @@
 <template>
-  <Header></Header>  
+  <Header></Header>
+
   <div class="relative z-10">
     <slot></slot>
   </div>

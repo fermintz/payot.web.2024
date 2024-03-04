@@ -20,7 +20,7 @@
         <img src="~/assets/img/home/credit.png" class="mix-blend-multiply rounded-3xl" >
       </div>
     </div>
-    <div class="col-span-2  lg:grid-cols-2 grid-cols-1 grid gap-8">
+    <div class="col-span-2 md:grid-cols-2 grid-cols-1 grid gap-8">
       <div class="bg-[#F2F6FC] rounded-3xl overflow-hidden">
         <Swiper
           :modules="[SwiperAutoplay]"

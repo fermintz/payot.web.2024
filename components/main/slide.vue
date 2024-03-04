@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="relative z-10 mt-10">
+  <div class="relative z-10 lg:mt-[10px] mt-[80px] lg:px-0 px-5">
     <swiper
       :modules="[SwiperAutoplay]"
       :slidesPerView="'auto'"

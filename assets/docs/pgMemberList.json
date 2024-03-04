@@ -1,0 +1,438 @@
+[
+  {
+    "image": null,
+    "name": "워시앤클린 광안",
+    "number": "133-13-68654",
+    "address": "부산광역시 수영구 수영로 514-1",
+    "owner": "차경진",
+    "phone": "070-4709-1003",
+    "email": "ckj0711@naver.com"
+  },
+  {
+    "image": null,
+    "name": "주식회사 하이홀딩스",
+    "number": "305-86-35029",
+    "address": "대전 대덕구 계족산로7 하이빌딩 3층 (주)하이홀딩스",
+    "owner": "이태종",
+    "phone": "1600-7042",
+    "email": ""
+  },
+  {
+    "image": null,
+    "name": "낭만펜션 세탁실",
+    "number": "495-06-02227",
+    "address": "강원도 인제군 북면 만해로 247",
+    "owner": "정지순",
+    "phone": "010-3264-1654",
+    "email": "nangmanpension@naver.com"
+  },
+  {
+    "image": null,
+    "name": "워시프렌즈 부산신평점",
+    "number": "440-40-00972",
+    "address": "부산 사하구 다대로130번길 158",
+    "owner": "김재범",
+    "phone": "010-8544-4545",
+    "email": "mailparadise@hanmail.net"
+  },
+  {
+    "image": null,
+    "name": "몬스터워시 수원인계 1호점",
+    "number": "132-55-00777",
+    "address": "경기 수원시 팔달구 세지로174번길 31-3",
+    "owner": "김병석",
+    "phone": "010-8366-0354",
+    "email": "adgood1@naver.com"
+  },
+  {
+    "image": null,
+    "name": "몬스터워시 수원인계 2호점",
+    "number": "848-06-01965",
+    "address": "경기 수원시 팔달구 장다리로283번길 21",
+    "owner": "장경은",
+    "phone": "010-5728-0354",
+    "email": "adgood12@naver.com"
+  },
+  {
+    "image": null,
+    "name": "에코런드렛 셀프빨래방 마곡직영점",
+    "number": "406-10-01720",
+    "address": "서울 강서구 공항대로 195",
+    "owner": "이상훈",
+    "phone": "010-3250-6777",
+    "email": "washmagok@naver.com"
+  },
+  {
+    "image": null,
+    "name": "런드리나인 셀프빨래방 카페 천안역힐스테이트",
+    "number": "332-79-00335",
+    "address": "충남 천안시 동남구 옛시청길 29",
+    "owner": "배영숙",
+    "phone": "010-3336-7369",
+    "email": "lee.seok116@gmail.com"
+  },
+  {
+    "image": null,
+    "name": "워시프렌즈 셀프빨래방 부산 사하당리점",
+    "number": "611-12-70314",
+    "address": "부산 사하구 낙동대로390번길 15",
+    "owner": "김수영",
+    "phone": "010-2710-3333",
+    "email": "fortunesue@naver.com"
+  },
+  {
+    "image": null,
+    "name": "워시프렌즈 영주가흥점",
+    "number": "268-27-01131",
+    "address": "경북 영주시 대학로 257-1",
+    "owner": "석성욱",
+    "phone": "010-4235-0060",
+    "email": "seokpro1@gmail.com"
+  },
+  {
+    "image": null,
+    "name": "워시원 센트럴 빨래방",
+    "number": "453-38-00906",
+    "address": "서울 관악구 봉천로14길 23",
+    "owner": "김흙",
+    "phone": "010-9963-1071",
+    "email": "ruminuse82@gmail.com"
+  },
+  {
+    "image": null,
+    "name": "워시팡팡(내유점)",
+    "number": "531-21-00945",
+    "address": "경기 고양시 덕양구 유산길 45",
+    "owner": "이재훈",
+    "phone": "010-9860-2167",
+    "email": "jaehoon2lee@gmail.com"
+  },
+  {
+    "image": null,
+    "name": "세탁프리워시 남양뉴타운점",
+    "number": "708-43-00630",
+    "address": "경기 화성시 남양읍 남양리 2050-17",
+    "owner": "윤혜진",
+    "phone": "010-9009-2120",
+    "email": "junwnsn@nate.com"
+  },
+  {
+    "image": null,
+    "name": "워시앤클린 부평점",
+    "number": "607-20-44603",
+    "address": "인천 부평구 부흥로303번길 29",
+    "owner": "최성균",
+    "phone": "010-8544-3751",
+    "email": "csgyun1@empal.com"
+  },
+  {
+    "image": null,
+    "name": "코인365 천안쌍용점",
+    "number": "691-34-00494",
+    "address": "충남 천안시 서북구 쌍용동 1804",
+    "owner": "조상근",
+    "phone": "010-6430-3147",
+    "email": "kia47@hanmail.net"
+  },
+  {
+    "image": null,
+    "name": "24시 셀프빨래방 은평구산점",
+    "number": "874-64-00437",
+    "address": "서울 은평구 연서로13길 29-6",
+    "owner": "김정선",
+    "phone": "010-6279-1452",
+    "email": "h9metal@naver.com"
+  },
+  {
+    "image": null,
+    "name": "에코워시24 상대점(진주)",
+    "number": "406-01-65853",
+    "address": "경남 진주시 동진로216번길 6",
+    "owner": "조우정",
+    "phone": "010-4489-3936",
+    "email": "mtr3936@naver.com"
+  },
+  {
+    "image": null,
+    "name": "런드리데이 상봉동 셀프빨래방",
+    "number": "140-21-01170",
+    "address": "서울 중랑구 면목로96길 28",
+    "owner": "서현준",
+    "phone": "010-4755-7196",
+    "email": "hjms7000@naver.com"
+  },
+  {
+    "image": null,
+    "name": "가산동 빨래방 에코런드렛 한신페이점",
+    "number": "275-88-00179",
+    "address": "서울 금천구 가산로9길 12-8",
+    "owner": "이상훈",
+    "phone": "010-3250-6777",
+    "email": "ceo@hanshinpay.com"
+  },
+  {
+    "image": null,
+    "name": "경산 버블터치",
+    "number": "787-69-00384",
+    "address": "경북 경산시 백천길 21",
+    "owner": "이미경",
+    "phone": "010-2754-5400",
+    "email": "lmk8018@naver.com"
+  },
+  {
+    "image": null,
+    "name": "런드리나인 평택고덕점",
+    "number": "480-56-00649",
+    "address": "경기 평택시 고덕여염8길 71",
+    "owner": "고은태",
+    "phone": "010-3933-6827",
+    "email": "rhvksdud236@naver.com"
+  },
+  {
+    "image": null,
+    "name": "(주)에코드림",
+    "number": "570-81-02374",
+    "address": "전남 광양시 폭포사랑길 99",
+    "owner": "김덕규",
+    "phone": "01090331231",
+    "email": "kceo@kakao.com"
+  },
+  {
+    "image": null,
+    "name": "광안세탁소",
+    "number": "262-02-02110",
+    "address": "부산 수영구 민락로33번길 5",
+    "owner": "이은혜",
+    "phone": "01097820713",
+    "email": "so-room@naver.com"
+  },
+  {
+    "image": null,
+    "name": "월드크리닝 시흥목감점",
+    "number": "592-35-01214",
+    "address": "경기 시흥시 남왕길 24",
+    "owner": "곽철진",
+    "phone": "01092384661",
+    "email": "cj.kwak06@gmail.com"
+  },
+  {
+    "image": null,
+    "name": "맘스워시24 논산점",
+    "number": "189-04-02522",
+    "address": "충남 논산시 시민로222번길 40",
+    "owner": "김태수",
+    "phone": "01041814107",
+    "email": "xotn4107@hanmail.net"
+  },
+  {
+    "image": null,
+    "name": "하나런드리 덕풍점",
+    "number": "225-04-99852",
+    "address": "경기 하남시 미사강변한강로 412",
+    "owner": "김지선",
+    "phone": "01057899026",
+    "email": "puti7@naver.com"
+  },
+  {
+    "image": null,
+    "name": "하나런드리 잠실점",
+    "number": "792-03-01870",
+    "address": "서울 송파구 올림픽로12길 46",
+    "owner": "김지선",
+    "phone": "01057899026",
+    "email": "puti7@naver.com"
+  },
+  {
+    "image": null,
+    "name": "하나런드리 미사역점",
+    "number": "398-22-01460",
+    "address": "경기 하남시 미사강변동로 95",
+    "owner": "김정민",
+    "phone": "01057899026",
+    "email": "puti7@naver.com"
+  },
+  {
+    "image": null,
+    "name": "다모아24 셀프빨래방 총판사업부",
+    "number": "464-34-00932",
+    "address": "경남 양산시 물금읍 오봉로 6",
+    "owner": "박영규",
+    "phone": "01077490958",
+    "email": "pyk0958@hanmail.net"
+  },
+  {
+    "image": null,
+    "name": "PNS 부산대학기숙사",
+    "number": "621-18-56460",
+    "address": "부산 금정구 금샘로 262",
+    "owner": "이동영",
+    "phone": "01028616355",
+    "email": "dong230@hanmail.net"
+  },
+  {
+    "image": null,
+    "name": "셀플러스(주)",
+    "number": "211-86-16687",
+    "address": "경기 남양주시 경춘로 786",
+    "owner": "유정윤",
+    "phone": "01035729844",
+    "email": "sell1993@naver.com"
+  },
+  {
+    "image": null,
+    "name": "런드리스테이션 하남미사역점",
+    "number": "402-36-26919",
+    "address": "경기 하남시 미사강변동로 95",
+    "owner": "김매웅",
+    "phone": "010-2039-3036",
+    "email": "hjsung1207@gmail.com"
+  },
+  {
+    "image": null,
+    "name": "런드리9 구리수택점",
+    "number": "628-36-01086",
+    "address": "경기 구리시 안골로63번길 38, 1층 107호",
+    "owner": "양천광",
+    "phone": "010-5758-6601",
+    "email": "t80zzang@naver.com"
+  },
+  {
+    "image": null,
+    "name": "워시프렌즈 서면전포",
+    "number": "319-09-01890",
+    "address": "부산 부산진구 전포대로175번길 37-4, 1층",
+    "owner": "전민후",
+    "phone": "010-5032-9377",
+    "email": "rusitan@naver.com"
+  },
+  {
+    "image": null,
+    "name": "세탁풍경 신림점",
+    "number": "577-34-01047",
+    "address": "서울 관악구 남부순환로152길 76, 1층",
+    "owner": "김용호",
+    "phone": "010-6203-0550",
+    "email": "my0558@nate.com"
+  },
+  {
+    "image": null,
+    "name": "워시팡팡 청주성화점",
+    "number": "221-18-97844",
+    "address": "충북 청주시 서원구 신성화로 40, 1층 103호",
+    "owner": "함윤희",
+    "phone": "010-4706-8191",
+    "email": "stranger234@naver.com"
+  },
+  {
+    "image": null,
+    "name": "워시프레시 셀프빨래방 포항오천점",
+    "number": "288-75-00398",
+    "address": "포항시 남구 오천읍 남원로86-42, 1층",
+    "owner": "권명희",
+    "phone": "010-8595-2177",
+    "email": "hgs2177@daum.net"
+  },
+  {
+    "image": null,
+    "name": "에코런드렛 빨래방&아이스크림 김포구래점",
+    "number": "511-59-00565",
+    "address": "김포한강4로 571, 1층, 116호",
+    "owner": "이다연",
+    "phone": "015-0195-347",
+    "email": "ldo010@naver.com"
+  },
+  {
+    "image": null,
+    "name": "세탁풍경 신곡점",
+    "number": "881-33-01196",
+    "address": "의정부시 추동로 108번길 12-25",
+    "owner": "김화영",
+    "phone": "010-3718-7982",
+    "email": "hwa8997@naver.com"
+  },
+  {
+    "image": null,
+    "name": "클린코튼24시 셀프빨래방",
+    "number": "337-73-00056",
+    "address": "대전시 중구 어덕마을로10번길 71-17",
+    "owner": "강영화",
+    "phone": "010-4110-1284",
+    "email": "xaoyu@naver.com"
+  },
+  {
+    "image": null,
+    "name": "다모아 삼산",
+    "number": "759-17-01884",
+    "address": "울산시 남구 번영로246번길 12, 1층 101호",
+    "owner": "정광민",
+    "phone": "010-2460-0293",
+    "email": "jeonggmin@naver.com"
+  },
+  {
+    "image": null,
+    "name": "에코런드렛 김포썬앤빌점",
+    "number": "191-10-01357",
+    "address": "경기 김포시 김포한강10로133번길 40, 1115호",
+    "owner": "김윤미",
+    "phone": "014-9221-644",
+    "email": "purity0414@naver.com"
+  },
+  {
+    "image": null,
+    "name": "런드리데이 돌곶이점",
+    "number": "760-24-00995",
+    "address": "서울 특별시 성북구 돌곶이로27길 49-1(장위동), 1층",
+    "owner": "이우성",
+    "phone": "010-2728-1069",
+    "email": "awoozi78@naver.com"
+  },
+  {
+    "image": null,
+    "name": "런드리데이 석계점",
+    "number": "214-19-06056",
+    "address": "서울 성북구 화랑로40길 38",
+    "owner": "이우성",
+    "phone": "010-2728-1069",
+    "email": "awoozi78@naver.com"
+  },
+  {
+    "image": null,
+    "name": "빨쿡 셀프빨래방 천안나사렛",
+    "number": "517-38-01096",
+    "address": "충남 천안시 서북구 쌍용15길 10, 101호",
+    "owner": "김혁준",
+    "phone": "010-5379-6838",
+    "email": "co-growth@naver.com"
+  },
+  {
+    "image": null,
+    "name": "워시타임 김해진영점",
+    "number": "445-17-00384",
+    "address": "경남 김해시 진영읍 김해대로407번길 24-20, 1층",
+    "owner": "전경옥",
+    "phone": "010-9311-0710",
+    "email": "parkeunjpp@naver.com"
+  },
+  {
+    "image": null,
+    "name": "에코런드렛 수원영화점",
+    "number": "672-36-01007",
+    "address": "경기 수원시 장안구 광교산로14번길 19, 1층",
+    "owner": "이진경",
+    "phone": "010-6638-3676",
+    "email": "ddolinae3@hanmail.net"
+  },
+  {
+    "image": null,
+    "name": "워시크린",
+    "number": "263-22-01714",
+    "address": "부산광역시 사하구 하신번영로167번길 40",
+    "owner": "김대영",
+    "phone": "010-3306-8291",
+    "email": "ckkat73@nate.com"
+  }
+]
+ 
+ 
+ 
+

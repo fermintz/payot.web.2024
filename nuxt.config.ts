@@ -1,7 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   ssr: false,
-  modules: ['@vueuse/nuxt', '@nuxt/content', '@nuxtjs/tailwindcss', 'nuxt-swiper','nuxt-icon'],
+  modules: ['@vueuse/nuxt', '@nuxt/content', '@nuxtjs/tailwindcss', 'nuxt-swiper','nuxt-icon','nuxt-lodash'],
   css: ['@/assets/styles/global.scss','@/assets/styles/fonts.scss'],
   postcss:{
     plugins:{

@@ -54,7 +54,7 @@ const products = ref([
           </div>
 
           <div class="relative mt-[70px] w-full ">
-            <img src="~/assets/img/home/product01.png" class="absolute max-h-[600px] right-0 bottom-0 z-10  animation slideup on">
+            <img src="~/assets/img/home/product01.png" class="absolute max-h-[600px] right-0 bottom-0 z-10 animation slideup first">
             <!-- <div class="w-full h-[400px] rounded-3xl bg-blue-600"></div> -->
             <img src="~/assets/img/common-bg.jpg" class="h-[400px] w-full rounded-3xl object-cover  object-center ">
           </div>
